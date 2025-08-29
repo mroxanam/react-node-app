@@ -4,7 +4,7 @@
   "description": "Servidor Node/Express para app React",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server/index.js",
     "build": "cd ../client && npm install && npm run build"
   },
   "engines": {
